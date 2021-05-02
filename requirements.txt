@@ -38,4 +38,4 @@ wincertstore==0.2
 wrapt==1.12.1
 zope.event==4.5.0
 zope.interface==5.1.2
-opencv-python-headless==4.2.0.32
+opencv-python-headless==4.5.1.48
